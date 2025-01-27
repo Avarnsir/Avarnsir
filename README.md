@@ -1,6 +1,6 @@
 ## Hi there 👋
 Myself **Avarn**
-- 🌱 I’m currently learning Computational Astronomy
+- 🌱 I’m currently learning Computational astronphysics and simulation for the planets
 - 👯 I’m looking to collaborate on data analysis about celestial body
 - 🤔 I’m looking for help with Github
 - 📫 How to reach me: @avarnn1827@gmail.com
