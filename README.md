@@ -1,8 +1,17 @@
-## Hi there 👋
-Myself **Avarn**
-- 🌱 I’m currently pursuing MSc Physics
-- 👯 I’m looking to collaborate on Exoplanets and galactic structures
-- 🤔 I’m looking for help with Github as its new and you learn everything new everyday
-- 🚀 Building automation tools for space science (_currently open_)
-- 💼 Available for astronomy-related programming projects
-- 📫 How to reach me: @astroavarn@gmail.com
+## Hi, I'm Avarn 👋
+
+I'm a MSc Physics student transitioning into data science and analytics. I leverage my strong analytical and programming skills to solve complex scientific and business problems with data.
+
+🌱 Currently learning Python, SQL, and machine learning  
+🔭 Working on projects involving data analysis, visualization, and automation  
+🤝 Open to collaborate on data science and astronomy-related projects  
+
+### Skills & Technologies  
+- Python, pandas, NumPy, matplotlib, seaborn  
+- SQL for data querying  
+- Data visualization: Tableau, Power BI  
+- Machine Learning fundamentals  
+- Git & GitHub for version control  
+- Scientific programming & automation
+
+📫 Reach me at: astroavarn@gmail.com  
