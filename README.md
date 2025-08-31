@@ -13,5 +13,7 @@ I'm a MSc Physics student transitioning into data science and analytics. I lever
 - Machine Learning fundamentals  
 - Git & GitHub for version control  
 - Scientific programming & automation
-
+  
+### Let's Connect  
+I’m eager to collaborate on data science and programming projects related to astronomy or other fields. Feel free to reach out!
 📫 Reach me at: astroavarn@gmail.com  
