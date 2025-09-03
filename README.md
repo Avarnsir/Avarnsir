@@ -2,7 +2,7 @@
 
 I'm a MSc Physics student transitioning into data science and analytics. I leverage my strong analytical and programming skills to solve complex scientific and business problems with data.
 
-🌱 Currently learning Python, SQL, and machine learning  
+🌱 Currently learning SQL, and machine learning  
 🔭 Working on projects involving data analysis, visualization, and automation  
 🤝 Open to collaborate on data science and astronomy-related projects  
 
