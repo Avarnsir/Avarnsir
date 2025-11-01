@@ -4,7 +4,7 @@ I'm a MSc Physics student transitioning into data science and analytics. I lever
 
 🌱 Currently learning SQL, and machine learning  
 🔭 Working on projects involving data analysis, visualization, and automation  
-🤝 Open to collaborate on data science and astronomy-related projects  
+🤝 Open to collaborate on data science projects  
 
 ### Skills & Technologies  
 - Python, pandas, NumPy, matplotlib, seaborn, Scipy
