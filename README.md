@@ -2,10 +2,10 @@
 
 I'm a MSc Physics student transitioning into data science and analytics. I leverage my strong analytical and programming skills to solve complex scientific and business problems with data.
 
-🌱 Currently learning iOS development, and machine learning  
-👨🏻‍💻 Working on some portfolio worth projects
-🤝 Open to collaborate on data science/ iOS development projects
-🔭 Working on some side projects involving data analysis, visualization, and automation for fun  
+- 🌱 Currently learning iOS development, and machine learning  
+- 👨🏻‍💻 Working on some portfolio worth projects
+- 🤝 Open to collaborate on data science/ iOS development projects
+- 🔭 Working on some side projects involving data analysis, visualization, and automation for fun  
 
 ### Skills & Technologies  
 - Python, pandas, NumPy, matplotlib, seaborn, Scipy
