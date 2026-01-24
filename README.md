@@ -3,9 +3,8 @@
 I'm Avarn, MSc Physics student transitioning into iOS Development with the touch of data science into it. I leverage my strong analytical and programming skills to solve complex scientific with data and solve problems by iOS development. Outside of my work, I'm interested in following the developments of science. I make [video](https://www.youtube.com/@Avarnnn), play and make content related to football.
 
 - 🌱 Currently learning iOS development, and machine learning  
-- 👨🏻‍💻 Working on some portfolio worth projects
+- 👨🏻‍💻 Working on some projects for my portfolio
 - 🤝 Open to collaborate on data science/ iOS development projects
-- 🔭 Working on some side projects involving data analysis, visualization, and automation for fun  
 
 ### Skills & Technologies  
 - Python, pandas, NumPy, matplotlib, seaborn, Scipy
