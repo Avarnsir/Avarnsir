@@ -2,7 +2,7 @@
 
 I'm Avarn, MSc Physics student transitioning into development field with the data science. I leverage my strong analytical and programming skills to solve complex scientific with data and solve problems by development skills. Outside of my work, I'm interested in following the developments of science. I make [video](https://www.youtube.com/@Avarnnn), play and make content related to football.
 
-- 🌱 Currently learning iOS development, and machine learning  
+- 🌱 Currently learning data science and machine learning  
 - 👨🏻‍💻 Working on some projects for my portfolio
 - 🤝 Open to collaborate on data science/ physics related projects
 
