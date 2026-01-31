@@ -4,7 +4,7 @@ I'm Avarn, MSc Physics student transitioning into development field with the dat
 
 - 🌱 Currently learning iOS development, and machine learning  
 - 👨🏻‍💻 Working on some projects for my portfolio
-- 🤝 Open to collaborate on data science/ iOS development projects
+- 🤝 Open to collaborate on data science/ physics related projects
 
 ### Skills & Technologies  
 - Python, pandas, NumPy, matplotlib, seaborn, Scipy
