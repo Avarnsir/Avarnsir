@@ -17,4 +17,4 @@ I'm Avarn, MSc Physics student transitioning into development field with the dat
 I’m eager to collaborate on data science and development projects. Feel free to reach out!
 📫 Reach me at: astroavarn@gmail.com  
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Avarnsir&exclude_days=Sun&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Avarnsir&theme=dark&hide_border=true&short_numbers=true&exclude_days=Sun" alt="GitHub Streak" /></a>
