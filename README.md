@@ -5,7 +5,8 @@ I'm Avarn, MSc Physics student transitioning into development field with the dat
 - 🌱 Currently learning data science and machine learning  
 - 👨🏻‍💻 Working on some projects for my portfolio
 - 🤝 Open to collaborate on data science/ physics related projects
-
+<a ![Avarnsir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avarnsir)](https://github.com/Avarnsir/github-readme-stats)/></a>
+<a ![Avarnsir's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)/></a>
 ### Skills & Technologies  
 - Python, pandas, NumPy, matplotlib, seaborn, Scipy
 - Data visualization: Tableau, Power BI  
@@ -18,5 +19,3 @@ I’m eager to collaborate on data science and development projects. Feel free t
 📫 Reach me at: astroavarn@gmail.com  
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Avarnsir&theme=dark&hide_border=true&short_numbers=true&exclude_days=Sun" alt="GitHub Streak" /></a>
-<a ![Avarnsir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avarnsir)](https://github.com/Avarnsir/github-readme-stats)/></a>
-<a ![Avarnsir's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)/></a>
