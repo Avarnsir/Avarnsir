@@ -16,4 +16,4 @@ I'm Avarn, MSc Physics student transitioning into development field with the dat
 I’m eager to collaborate on data science and development projects. Feel free to reach out!
 📫 Reach me at: astroavarn@gmail.com  
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Avarnsir" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Avarnsir&theme=dark" alt="GitHub Streak" /></a>
