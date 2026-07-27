@@ -16,4 +16,4 @@ I'm Avarn, MSc Physics student transitioning into development field with the dat
 I’m eager to collaborate on data science and development projects. Feel free to reach out!
 📫 Reach me at: astroavarn@gmail.com  
 
-Currently on a vacation and a mental reset. Sorry for any convience
+Back from a vacation and a mental reset, will show you the results after a while. Sorry for any convience.
