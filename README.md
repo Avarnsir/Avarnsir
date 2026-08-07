@@ -1,6 +1,6 @@
 ## Hi, I'm Avarn <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm Avarn, MSc Physics student transitioning into development field with the data science. I leverage my strong analytical and programming skills to solve complex scientific with data and solve problems by development skills. Outside of my work, I'm interested in following the developments of science. I make [video](https://www.youtube.com/@Avarnnn), play and make content related to football.
+I'm Avarn, MSc Physics student transitioning into development field with the data science. I leverage my strong analytical and programming skills to solve complex scientific with data and solve problems by development skills. Outside of my work, I'm interested in following the developments of science. I make [YouTube video](https://www.youtube.com/@Avarnnn) and [Instagram Reels](https://www.instagram.com/thatxpulseguy/), where I talk about football or some funny things.
 
 - 🌱 Currently learning exploratory data analysis and machine learning  
 - 👨🏻‍💻 Working on some projects for my portfolio
@@ -14,6 +14,4 @@ I'm Avarn, MSc Physics student transitioning into development field with the dat
   
 ### Let's Connect  
 I’m eager to collaborate on data science and development projects. Feel free to reach out!
-📫 Reach me at: astroavarn@gmail.com  
-
-Back from a vacation and a mental reset, will show you the results after a while. Sorry for any convience.
+📫 Reach me at: astroavarn@gmail.com
