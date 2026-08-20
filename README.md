@@ -9,7 +9,7 @@ I'm Avarn, Physics student transitioning into development field with the data sc
 - Python, pandas, NumPy, matplotlib, seaborn, Scipy
 - Data visualization: Tableau, Power BI, Excel
 - Machine Learning fundamentals
-- Scientific programming & automation
+- Scientific programming
   
 ### Let's Connect  
 I’m eager to collaborate on data science and development projects. Feel free to reach out!
