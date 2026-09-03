@@ -13,4 +13,4 @@ I'm Avarn, Physics student transitioning into data science. I leverage my strong
   
 ### Let's Connect  
 I’m eager to collaborate on data science and development projects. Feel free to reach out!
-📫 Reach me at: astroavarn@gmail.com
+/📫 Reach me at: astroavarn@gmail.com
